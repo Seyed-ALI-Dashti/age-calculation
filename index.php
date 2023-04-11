@@ -1,6 +1,7 @@
 <?php 
 
 // Age calculation with the accuracy of days.
+// In the future with minute accuracy
 
 
 function time_diff($year, $month, $day){
